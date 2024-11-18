@@ -1,0 +1,1 @@
+This project is a Myntra Clone developed as a part of a personal project to replicate the popular online fashion e-commerce platform Myntra. It allows users to browse and purchase a wide range of fashion products, from clothing to accessories, while providing an interactive and responsive shopping experience.
